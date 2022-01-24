@@ -69,31 +69,56 @@ ol > li{
 #box1 {
     position: relative;
     left:50px;
+    background-image: url(../images/fuji1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:orange;
 }
 
 #box2 {
     position: relative;
     right:150px;
+    background-image: url(../images/fuji1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:orange;
 }
 
 #box3 {
     position: relative;
     left:100px;
+    background-image: url(../images/fuji1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:orange;
+    
 }
 
 #box4 {
     position: relative;
     right:50px;
+    background-image: url(../images/fuji1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:orange;
 }
 
 #box5 {
     position: relative;
     left:150px;
+    background-image: url(../images/fuji1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:orange;
 }
 
 #box6 {
     position: relative;
     right:50px;
+    background-image: url(../images/fuji1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:orange;
 } 
 
 /* .abox{
